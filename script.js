@@ -1,5 +1,5 @@
 //Please do enter your API key in order to get the full functionalities of the App`
-const accessKey = '';
+const accessKey = API_KEY;
 
 const formEl = document.querySelector('form');
 const inputEl = document.getElementById('search-input');
@@ -8,6 +8,8 @@ const showMore = document.getElementById('show-more-button');
 
 let inputData = '';
 let pageNumber = 1;
+
+console.log("asalamAlaikom Lads")
 
 
 async function searchImages(){
