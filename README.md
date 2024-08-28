@@ -12,15 +12,6 @@ The Image Search App allows users to search for images using the Unsplash API. U
 
 
 ## Usage
-
-Obtain an API Key:
-
-Sign up for a free account at Unsplash.
-Go to your Unsplash Developer Dashboard and create a new application to get your API key.
-Add Your API Key
-
-Open script.js in your project directory.
-Replace the placeholder const accessKey = 'YOUR_API_KEY_HERE'; with your own Unsplash API key.
 Search for Images
 
 Type a search query into the input field.
